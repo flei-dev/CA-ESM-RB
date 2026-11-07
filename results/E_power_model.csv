@@ -1,0 +1,17 @@
+fit_device,eval_device,role,metric,mean,std
+galaxy,galaxy,held-out video,r2,-0.37918395875413263,0.7204551888296297
+galaxy,galaxy,held-out video,within_chunk_corr,0.8885849448750399,0.048642396041455774
+galaxy,galaxy,training video,r2,0.4205176570797565,0.10484435904960934
+galaxy,galaxy,training video,within_chunk_corr,0.9116104486237973,0.01801474970008505
+galaxy,xcover,held-out video,r2,-3.467057861205551,1.8820722910851886
+galaxy,xcover,held-out video,within_chunk_corr,0.5145050623053848,0.3161964629295279
+galaxy,xcover,training video,r2,-4.38494613595385,3.0404002745452625
+galaxy,xcover,training video,within_chunk_corr,0.5258169449931903,0.2852615329509724
+xcover,galaxy,held-out video,r2,-3.1224003473607373,1.2538971844076108
+xcover,galaxy,held-out video,within_chunk_corr,0.6616898516257097,0.27558530071420795
+xcover,galaxy,training video,r2,-3.3069185880623655,0.9136646734079015
+xcover,galaxy,training video,within_chunk_corr,0.7420427113153426,0.20550364703975832
+xcover,xcover,held-out video,r2,-0.3504015641207468,0.7098598746542203
+xcover,xcover,held-out video,within_chunk_corr,0.27048526204849727,0.20742025222520202
+xcover,xcover,training video,r2,0.30351841318079936,0.2662326764471637
+xcover,xcover,training video,within_chunk_corr,0.6065981456388785,0.2251971547081472
